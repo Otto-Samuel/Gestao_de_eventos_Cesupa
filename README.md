@@ -23,7 +23,7 @@ Descrição curta do projeto.
 4. Execute a classe `EventosCesupaGUI.java` para iniciar o programa.
 
 ## Tecnologias usadas
-<img width= '70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+ [<img width= '70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />](#)
 <img width= '70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 <img width= '70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" />
 
