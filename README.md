@@ -1,6 +1,6 @@
 # Sistema de Gestão de Eventos
 
-Descrição curta do projeto.
+Descrição curta do projeto:
 
 ## <div style="color: #6f2cf4">Recursos Principais</div>
 
