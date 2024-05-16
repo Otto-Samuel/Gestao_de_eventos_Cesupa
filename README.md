@@ -10,7 +10,6 @@ Descrição curta do projeto:
 - Exclua eventos com base em seu ID.
 - Interface gráfica de usuário (GUI) amigável.
 
-
 ## 🛠️ Pré-requisitos
 
 - Java 8 ou superior instalado.
