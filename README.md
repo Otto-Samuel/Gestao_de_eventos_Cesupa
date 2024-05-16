@@ -11,7 +11,6 @@ Descrição curta do projeto:
 - Interface gráfica de usuário (GUI) amigável.
 
 ## 🛠️ Pré-requisitos
-
 - Java 8 ou superior instalado.
 - IDE Java para desenvolvimento (IntelliJ).
 
