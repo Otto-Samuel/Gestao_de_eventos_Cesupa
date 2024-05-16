@@ -5,7 +5,7 @@ Descrição curta do projeto:
 ## <div style="color: #6f2cf4">Recursos Principais</div>
 
 - Adicione eventos com informações detalhadas.
-- Liste todos os eventos registrados.
+- Liste todos os eventos registrados
 - Atualize informações de eventos existentes.
 - Exclua eventos com base em seu ID.
 - Interface gráfica de usuário (GUI) amigável.
